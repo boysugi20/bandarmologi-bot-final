@@ -5,8 +5,9 @@ The final and usable bandarmologi bot
 ## Initial setup:
 
 1. Download Tor Browser installer from [here](https://www.torproject.org/download/)
-2. Install to `bot_data` folder
+2. Install the Tor Browser into `bot_data` folder
 3. Rename `Tor-Browser` folder to `Tor`
+4. Create `weekly_data` folder in root of the project.
 
 ## How to use:
 
