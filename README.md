@@ -3,7 +3,7 @@
 
 ## Initial setup:
 1. Download Tor Browser installer from [here](https://www.torproject.org/download/)
-2. Install to `server_data` folder
+2. Install to `bot_data` folder
 3. Rename `Tor-Browser` folder to `Tor`
 
 ## How to use:
