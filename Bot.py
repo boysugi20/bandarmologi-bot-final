@@ -4,9 +4,9 @@ import datetime
 import time
 import random
 
-from tabulate import tabulate
 from sty import fg, bg
 import yfinance as yf
+from tabulate import tabulate
 
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
